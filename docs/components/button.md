@@ -1,6 +1,6 @@
 # Button 按钮
 
-从按钮开始
+从按钮开始吧
 
 :::demo 使用 `color` 属性来定义 Button 的颜色
 
