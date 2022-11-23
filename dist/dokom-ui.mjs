@@ -1,4 +1,5 @@
 import { openBlock, createElementBlock } from "vue";
+const __uno = "";
 const _sfc_main = {
   name: "DButton"
 };
@@ -9,8 +10,9 @@ const _export_sfc = (sfc, props) => {
   }
   return target;
 };
+const _hoisted_1 = { class: "bg-green-500" };
 function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
-  return openBlock(), createElementBlock("button", null, "SFC BUTTON");
+  return openBlock(), createElementBlock("button", _hoisted_1, "SFC BUTTON");
 }
 const DButton = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
 const entry = {
